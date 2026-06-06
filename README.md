@@ -42,7 +42,6 @@ class AadilSaiyed:
             "🔭 Building ML-powered real-world systems",
             "🌱 Deepening expertise in RAG & LangChain",
             "🏆 Competing in hackathons (3rd @ HackTheSpring'26)",
-            "📡 Applying for Amazon ML Summer School",
         ]
 ```
 

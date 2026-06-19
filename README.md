@@ -136,6 +136,8 @@ Multi-role college placement portal for 200+ students with Admin, Coordinator, a
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aadilalisaiyed/Integrated-Placement-Management-System)
+
 </td>
 <td width="50%" valign="top">
 

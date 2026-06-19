@@ -119,6 +119,8 @@ Real-time theft detection using FaceNet512 deep learning to verify authorized ca
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![FaceNet](https://img.shields.io/badge/FaceNet512-DeepLearning-red?style=flat)
 
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aadilalisaiyed/Sparkone---HackTheSpring26)
+
 </td>
 </tr>
 <tr>

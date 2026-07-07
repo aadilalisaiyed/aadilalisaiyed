@@ -157,23 +157,6 @@ Fully functional Banking System Database demonstrating ACID properties — Atomi
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aadilalisaiyed&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadilalisaiyed&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=aadilalisaiyed&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 🏆 Achievements & Certifications
 
 | 🥉 | **2nd Runner-Up** — HackTheSpring'26 HackX Hackathon, GEC Gandhinagar (2026) |
@@ -194,16 +177,6 @@ Fully functional Banking System Database demonstrating ACID properties — Atomi
 *January 2026 – Present*
 
 Coordinating core team operations, managing internal communication, and overseeing scheduling for chapter meetings and technical events.
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Aadil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aadilalisaiyed&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 

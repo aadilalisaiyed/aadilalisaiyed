@@ -32,7 +32,7 @@ class AadilSaiyed:
         self.role        = ["AI Developer", "Software Engineer"]
         self.university  = "Rashtriya Raksha University, Gandhinagar"
         self.cgpa        = 8.8
-        self.semester    = "4th Semester (2nd Year)"
+        self.semester    = "5th Semester (3rd Year)"
         self.location    = "Ahmedabad, Gujarat 🇮🇳"
         self.interests   = ["LLMs", "Computer Vision", "Generative AI", "Full Stack"]
         self.leadership  = "Secretary @ IEEE Student Branch, RRU"

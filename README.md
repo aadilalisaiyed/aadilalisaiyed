@@ -16,6 +16,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadil-saiyed-31a471330/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aadilalisaiyed)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://personalportfolio-nu-two.vercel.app)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aadil.saiyed0327@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
 
@@ -41,7 +42,8 @@ class AadilSaiyed:
         return [
             "🔭 Building ML-powered real-world systems",
             "🌱 Deepening expertise in RAG & LangChain",
-            "🏆 Competing in hackathons (3rd @ HackTheSpring'26)",
+            "🏆 Competing in hackathons (2nd Runner-Up @ HackTheSpring'26)",
+            "💼 Actively looking for AI/ML & Full-Stack internships",
         ]
 ```
 
@@ -54,6 +56,7 @@ class AadilSaiyed:
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Frontend
@@ -66,12 +69,14 @@ class AadilSaiyed:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### AI / ML / Generative AI
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-006ACC?style=for-the-badge&logo=xgboost&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -94,17 +99,17 @@ class AadilSaiyed:
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ RescueVault (N_MAPS)
-**Offline Disaster Response System**
+### 🎓 Placement Management System
+**Full Stack Web Application**
 
-A decentralized emergency communication system for zero-connectivity disaster zones. Uses ML for SOS priority classification, hardware-level FPGA encryption (SIMON/ASCON), GPS geotagging, and role-based tactical dashboards.
+Multi-role college placement portal for 200+ students with Admin, Coordinator, and Student dashboards. JWT auth, RBAC, automated deadline enforcement, and REST API backend.
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![ML](https://img.shields.io/badge/ML-Classification-orange?style=flat)
-![FPGA](https://img.shields.io/badge/FPGA-Verilog-purple?style=flat)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aadilalisaiyed/N_MAPS)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aadilalisaiyed/Integrated-Placement-Management-System)
 
 </td>
 <td width="50%" valign="top">
@@ -126,30 +131,31 @@ Real-time theft detection using FaceNet512 deep learning to verify authorized ca
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 Placement Management System
-**Full Stack Web Application**
+### 🛡️ RescueVault (N_MAPS)
+**Offline Disaster Response System**
 
-Multi-role college placement portal for 200+ students with Admin, Coordinator, and Student dashboards. JWT auth, RBAC, automated deadline enforcement, and REST API backend.
+A decentralized emergency communication system for zero-connectivity disaster zones. Uses ML for SOS priority classification, hardware-level FPGA encryption (SIMON/ASCON), GPS geotagging, and role-based tactical dashboards.
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![ML](https://img.shields.io/badge/ML-Classification-orange?style=flat)
+![FPGA](https://img.shields.io/badge/FPGA-Verilog-purple?style=flat)
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aadilalisaiyed/Integrated-Placement-Management-System)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aadilalisaiyed/N_MAPS)
 
 </td>
 <td width="50%" valign="top">
 
-### 🏦 Banking System DB
-**ACID-Compliant MySQL Database**
+### 🌐 Personal Portfolio
+**Full Stack Developer Portfolio Site**
 
-Fully functional Banking System Database demonstrating ACID properties — Atomicity, Consistency, Isolation, Durability — with complete transaction handling.
+A personal portfolio site showcasing projects, skills, and resume — built to serve as the central hub for outreach and applications.
 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-ACID_Properties-blue?style=flat)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aadilalisaiyed/ACID-properties-MySQL)
+[![Live](https://img.shields.io/badge/Live_Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://personalportfolio-nu-two.vercel.app)
 
 </td>
 </tr>
@@ -187,6 +193,7 @@ Coordinating core team operations, managing internal communication, and overseei
 ### 💬 Let's Connect & Build Something Impactful
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadil-saiyed-31a471330/)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://personalportfolio-nu-two.vercel.app)
 [![Email](https://img.shields.io/badge/Send_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aadil.saiyed0327@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
